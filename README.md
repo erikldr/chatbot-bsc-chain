@@ -1,4 +1,4 @@
-## Um chatbot que fiz a um tempo para acompanhar dados de um token da rede BSC (Binance Smart Chain) direto de um grupo do telegram.
+## Um chatbot que fiz há algum tempo para acompanhar dados de um token da rede BSC (Binance Smart Chain) direto de um grupo do telegram.
 
 
 **Instale as bibliotecas necessarias com:**
