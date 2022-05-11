@@ -1,15 +1,14 @@
-# chatbot-bsc-chain
+# Um chatbot que fiz a um tempo para acompanhar dados de um token da rede BSC (Binance Smart Chain) direto de um grupo do telegram.
+
+
+**Instale as bibliotecas necessarias com:**
+
 ---
-beautifulsoup4 
-https://pypi.org/project/beautifulsoup4/
+$ pip install beautifulsoup4
+$ pip install telepot
+$ pip install pythonpancakes
 ---
 
 ---
-telepot
-https://pypi.org/project/telepot/
----
-
----
-pythonpancakes
-https://pypi.org/project/pythonpancakes/
+Lembre-se de preencher os campos necessarios no arquivo chatbot_bsc.py 
 ---
